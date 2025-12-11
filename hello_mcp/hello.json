@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "my-uv-mcp-server": {
+      "command": "uv",
+      "args": [
+        "run",
+        "D:\\Padmavathi\\GenAI\\hello_mcp\\hello.py"
+      ],
+      "cwd": "D:\\Padmavathi\\GenAI\\hello_mcp",
+      "env": {
+        "ENV": "prod",
+        "LOG_LEVEL": "debug"
+      }
+    }
+  }
+}
