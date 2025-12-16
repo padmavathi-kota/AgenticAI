@@ -1,0 +1,9 @@
+ "swiggy-mcp": {
+       "command": "uv",
+      "args": [
+	  "run",
+	  "D:\\Padmavathi\\GenAI-Practice\\swiggy-mcp\\.venv\\Scripts\\python.exe",
+		"D:\\Padmavathi\\GenAI-Practice\\swiggy-mcp\\customercare.py"
+      ],
+      "cwd": "D:\\Padmavathi\\GenAI-Practice\\swiggy-mcp"
+    }
